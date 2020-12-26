@@ -1,4 +1,4 @@
-# sambit_lodu
+# Apple Sign In with Flutter
 
 A new Flutter project.
 
